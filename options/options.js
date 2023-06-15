@@ -1,5 +1,3 @@
-import { StyleSheet } from "react-native"
-
 export const globalOptions = {
   name: "al-plantstore-dev-91167",
   url: "https://al-plantstore-dev-91167.botics.co",
@@ -8,9 +6,9 @@ export const globalOptions = {
     headerShown: false
   },
   initialScreen: "welcome"
-}
+};
 export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   }
-}
+};
