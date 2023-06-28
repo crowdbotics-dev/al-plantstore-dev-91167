@@ -1,11 +1,12 @@
 export const globalOptions = {
-  name: "al-plantstore-dev-91167",
-  url: "https://al-plantstore-dev-91167.botics.co",
-  api: "https://al-plantstore-dev-91167.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
+  "name": "al-plantstore-dev-91167",
+  "url": "https://al-plantstore-dev-91167.botics.co",
+  "api": "https://al-plantstore-dev-91167.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
   },
-  initialScreen: "welcome"
+  "initialScreen": "welcome",
+  "initialRoute": "Untitled8Copy"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
